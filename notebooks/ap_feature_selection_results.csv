@@ -1,0 +1,11 @@
+dataset,task_type,base_score,selector_score,num_rows,n_features_original,n_features_selected,error
+heart,Classification (Binary),"{'ap': 0.5740285483889488, 'roc_auc': 0.7133333333333333, 'accuracy': 0.725}","{'ap': 0.43607871157956046, 'roc_auc': 0.6333333333333333, 'accuracy': 0.625}",200,15,4,
+hepatitis,Classification (Binary),"{'ap': 0.4991455766455766, 'roc_auc': 0.5047619047619047, 'accuracy': 0.6129032258064516}","{'ap': 0.5459782608695652, 'roc_auc': 0.6023809523809524, 'accuracy': 0.7096774193548387}",154,19,7,
+blood,Classification (Binary),"{'ap': 0.45623638251455373, 'roc_auc': 0.586223391533126, 'accuracy': 0.76}","{'ap': 0.45623638251455373, 'roc_auc': 0.586223391533126, 'accuracy': 0.76}",748,4,4,
+cancer,Classification (Binary),"{'ap': 0.992078797674568, 'roc_auc': 0.9591881274552597, 'accuracy': 0.9635036496350365}","{'ap': 0.9949914349125089, 'roc_auc': 0.9591881274552597, 'accuracy': 0.9635036496350365}",683,9,6,
+diabetes,Classification (Binary),"{'ap': 0.6154319151444712, 'roc_auc': 0.7252525252525254, 'accuracy': 0.7402597402597403}","{'ap': 0.6468987449582155, 'roc_auc': 0.7111111111111111, 'accuracy': 0.7272727272727273}",768,8,5,
+electrical_grid,Classification (Binary),"{'ap': 0.9876936584813486, 'roc_auc': 0.9098162740090818, 'accuracy': 0.922}","{'ap': 0.9876936584813486, 'roc_auc': 0.9098162740090818, 'accuracy': 0.922}",10000,12,12,
+heart_disease,Classification (Binary),"{'ap': 0.8888639822335478, 'roc_auc': 0.826839826839827, 'accuracy': 0.8518518518518519}","{'ap': 0.8311001134681708, 'roc_auc': 0.7792207792207793, 'accuracy': 0.8148148148148148}",270,13,9,
+employee,Classification (Binary),"{'ap': 0.981470032619797, 'roc_auc': 0.9547822747356697, 'accuracy': 0.9743333333333334}","{'ap': 0.981470032619797, 'roc_auc': 0.9547822747356697, 'accuracy': 0.9743333333333334}",14999,9,9,
+credit,Classification (Binary),"{'ap': 0.5703881531988689, 'roc_auc': 0.6648702479992522, 'accuracy': 0.8291666666666667}","{'ap': 0.5620881357910245, 'roc_auc': 0.6617983772140222, 'accuracy': 0.82875}",24000,23,18,
+bank,Classification (Binary),"{'ap': 0.6177887893074474, 'roc_auc': 0.708234685380846, 'accuracy': 0.9041247373659184}","{'ap': 0.6177887893074474, 'roc_auc': 0.708234685380846, 'accuracy': 0.9041247373659184}",45211,16,16,
